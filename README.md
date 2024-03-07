@@ -1,4 +1,4 @@
 # normal-demo
 this is my first repository
 <br>
-author-subrat das
+author-subrat kumar dash
